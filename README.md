@@ -7,5 +7,8 @@
 - #include “creatFields.h” //場の定義
 - #include “Diff1d.h” //微分の離散化定義
 
+## 可視化
+resultのdatファイルをParaViewで読み込む
+
 ## ブログ記事
 - [https://takun-physics.net/14538/](https://takun-physics.net/14538/)
