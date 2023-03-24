@@ -11,4 +11,4 @@
 resultのdatファイルをParaViewで読み込む
 
 ## ブログ記事
-- [https://takun-physics.net/14538/](https://takun-physics.net/14538/)
+- [【オブジェクト指向C++】2次元ナビエストークス方程式(キャビティ流れ)の数値計算](https://takun-physics.net/14538/)
